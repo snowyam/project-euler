@@ -34,12 +34,24 @@ li {
 	padding: 15px 0px;
 }
 
+form {
+	display: inline-block;
+}
+
+button {
+	display: inline-block;
+}
+
 #title {
 	font-family: "Arial", sans-serif;
 	font-size: 36px;
 	text-align: left;
 }
 
-.main {
+#answer1, #answer2, #answer3 {
+	font-weight: bold;
+}
 
+#foot {
+	border-bottom: 0px;
 }

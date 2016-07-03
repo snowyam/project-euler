@@ -8,7 +8,7 @@ Languages: JavaScript, Ruby(In Progress)
 
 Live - JavaScript | View in Browser:
 
-[TODO: placeholder]
+https://htmlpreview.github.io/?https://github.com/syichi/project-euler/blob/master/index.html
 
 
 JavaScript part from The Odin Project:

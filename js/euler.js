@@ -30,7 +30,10 @@ function sumOfMultiples(number) {
   return sumTotal;
 }
 
-sumOfMultiples(1000);
+function problem1() {
+  document.getElementById("answer1").innerHTML = 
+    sumOfMultiples(document.getElementById("problem1").value);
+}
 
 // Problem 2: Even Fibonacci Numbers
 function evenFibonacci(number) {
@@ -56,7 +59,10 @@ function evenFibonacci(number) {
   return evenSum;
 }
 
-evenFibonacci(4000000);
+function problem2() {
+  document.getElementById("answer2").innerHTML = 
+    evenFibonacci(document.getElementById("problem2").value);
+}
 
 // Problem 3: Largest Prime Factor
 function largestPrime(number) {
@@ -82,4 +88,8 @@ function largestPrime(number) {
   }
   return maxPrime;
 }
-largestPrime(600851475143);
+
+function problem3() {
+  document.getElementById("answer3").innerHTML = 
+    largestPrime(document.getElementById("problem3").value);
+}
