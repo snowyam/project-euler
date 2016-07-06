@@ -2,14 +2,15 @@
 
 https://projecteuler.net/about
 
-
 Languages: JavaScript, Ruby(In Progress)
 
-
+<br>
+  
 Live - JavaScript | View in Browser:
 
 https://htmlpreview.github.io/?https://github.com/syichi/project-euler/blob/master/index.html
 
+<br>
 
 JavaScript part from The Odin Project:
 
