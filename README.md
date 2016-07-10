@@ -2,7 +2,7 @@
 
 https://projecteuler.net/about
 
-Languages: JavaScript, Ruby(In Progress)
+Languages: JavaScript, Ruby
 
 <br>
   
